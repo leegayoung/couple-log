@@ -1,0 +1,5 @@
+rootProject.name = 'coupleLog'
+include 'couple-log-core'
+include 'couple-log-web'
+include 'couple-log-timeline'
+
